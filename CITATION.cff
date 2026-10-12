@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "ESP32-simple_reversable_counter: a reversible counter on the serial console"
+abstract: "An ESP32 program that counts on the serial console and reverses direction when a key is pressed. Written in C with ESP-IDF and FreeRTOS, in VS Code with PlatformIO, at the Universidade de Brasília with Prof. Jones Yudi Mori Alves da Silva."
+authors:
+  - family-names: "Ramos"
+    given-names: "Daniel Campos"
+    orcid: "https://orcid.org/0009-0001-4546-8673"
+    affiliation: "Universidade de Brasília"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/danielcamposramos/ESP32-simple_reversable_counter"
+keywords:
+  - "ESP32"
+  - "ESP-IDF"
+  - "FreeRTOS"
+  - "embedded systems"
+  - "C"
+  - "UART"
+  - "serial console"
+  - "counter"
